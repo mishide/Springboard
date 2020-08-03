@@ -1,6 +1,6 @@
 # Springboard Projects
 
-This repository stores Springboard Data Science mini projects and capstone projects including:
+This repository stores Data Science projects and capstone work for Springboard Data Science program
 
 
 
