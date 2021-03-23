@@ -7,14 +7,9 @@ date:  March 2021
 </div>
  
 <b>The Code:</b> Is contained in 2 notebooks for this project: 
-
-    <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb">EDA Analysis</a>
+<a href="https://www.coursera.org/learn/data-science-project" target="_blank">Link</a>
+<a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb" target="_blank">Link</a>.
     
-    <br> 
-    
-    and <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb">Machine Learning Models</a> 
-    
-    <br><br>
  <b>EDA:</b> performs the cleaning and initial statistical analysis<br>
 <b> Machine Learning Models:</b> 1) builds and tests the models 2) reviews results & recommendations</li></ol>
 
