@@ -8,7 +8,7 @@ date:  March 2021
  <br>
  <br>
  <large>
-  <b><h1 style="font-size: 11">The Code:</b> Is contained in 2 notebooks for this project:</h1> </large>
+  <b><h3 style="font-size: 11">The Code:</b> Is contained in 2 notebooks for this project:</h1> </large>
 <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb" target="_blank">EDA</a> and
 <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb" target="_blank">Machine Learning Models</a>.
     
