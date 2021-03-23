@@ -6,13 +6,11 @@ date:  March 2021
 <img src="images/R_B_spine.png" ALIGN="left" width="200"
 </div>
  <br>
- <br>
- <large>
-  <b><h3 style="font-size: 11">The Code:</b> Is contained in 2 notebooks for this project:</h1> </large>
+  <b><h3 style="font-size: 11">The Code:</b> Is contained in 2 notebooks for this project:</h1>
 <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb" target="_blank">EDA</a> and
 <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb" target="_blank">Machine Learning Models</a>.
     
- <b>EDA:</b> performs the cleaning and initial statistical analysis<br><br>
+ <b>EDA:</b> performs the cleaning and initial statistical analysis<br>
 <b> Machine Learning Models:</b> 1) builds and tests the models 2) reviews results & recommendations</li></ol>
 
 
