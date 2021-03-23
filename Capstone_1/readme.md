@@ -7,10 +7,9 @@ date:  March 2021
 </div>
  <br>
   <b><h3 style="font-size: 11">The Code:</b> Can be opened in these two notebooks:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb" target="_blank">EDA</a> and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb" target="_blank">EDA</a> and
 <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb" target="_blank">Machine Learning Models</a>.
    </h3>
- <br><br>
  <h4><b>EDA:</b> performs the cleaning and initial statistical analysis<br>
 <b> Machine Learning Models:</b> 1) builds and tests the models 2) reviews results & recommendations</li></ol>
 </h4>
