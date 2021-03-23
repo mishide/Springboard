@@ -6,6 +6,13 @@ date:  March 2021
 <img src="coursera.png" style="width:15%"
 </div>
 
+The project code is contained in the '/scripts' folder in this repo or you can run them by following the links below.<nl>
+There are 2 notebooks for this project:  EDA and MODEL
+ EDA: performs the cleaning and initial statistical analysis: https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb
+ MODEL: addressing feature correlations, then builds and tests the model, and finally reports results and recommendations
+https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb 
+
+
 Why
 ========================================================
 
@@ -23,12 +30,6 @@ Project
 
 <small>This project creates a predictive machine to label lumbar x-ray results as "Abnormal" or "Normal' in cases of Spondylolisthesis.  It ingests 6 quantitative measurements to determine the results using the predictive model created.  This model will result in a reduced error rate, improving consistency, and can be used as an initial sorting or secondary validation system.  As the model continues to train on new data, from various Radiological results, I expect the algorithm to imrove and develop into a system that can be relied on as accurate with only the occassional need for human input.
 </small> 
-
-The project code is contained in the '/scripts' folder in this repo or you can run them by following the links below.<nl>
-There are 2 notebooks for this project:  EDA and MODEL
- EDA: performs the cleaning and initial statistical analysis: https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb
- MODEL: addressing feature correlations, then builds and tests the model, and finally reports results and recommendations
-https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb 
 
 
 Data
