@@ -6,8 +6,8 @@ date:  March 2021
 <img src="images/R_B_spine.png" ALIGN="left" width="200"
 </div>
  <br>
-  <b><h3 style="font-size: 11">The Code:</b> Is contained in 2 notebooks for this project:</h1>
-<center><a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb" target="_blank">EDA</a> and
+  <b><h3 style="font-size: 11">The Code:</b> Can be opened in 2 notebooks linked below:</h1>
+&nbsp;&nbsp;<a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb" target="_blank">EDA</a> and
 <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb" target="_blank">Machine Learning Models</a>.
  </center>
  <br><br>
