@@ -11,6 +11,7 @@ date:  March 2021
 <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb" target="_blank">Machine Learning Models</a>.
    </h3>
  <h4><b>EDA:</b> performs the cleaning and initial statistical analysis<br>
+  <br>
 <b> Machine Learning Models:</b> 1) build and tests the models 2) results & recommendations</li></ol>
 </h4>
 <br>
@@ -20,18 +21,27 @@ Why
 ========================================================
 
 <small>
-Spondylolisthesis is a slipped vertebra in the spine.  Early intervention is less costly, potentially avoiding major surgery and long term lifestyle changes.  Some degree of Spondylolisthesis is expected, in these 'boundry' cases, determination of "Abnormal" versus "Normal" is difficult.  
+Spondylolisthesis is a slipped vertebra in the spine diagnosied with the help of radiology results
+ 
+ A study performed in 2012 by .......... tested accuracy rates of MRI Lumbar Spine X-Rays to have a miss rate of 46% partly due to variation in radiologist's interpretations.
+ 
+ Variance can be understood given the high amount of "boundry" cases that exist, where Abnormal and Normal values overlap.
+ 
+ Machine learning is well suited for these types of simultaneous comparisons and this project has built a model that improves the miss rate resulting in reduced cost for everyone, hospitals, physicians, insurance, and patients, as well as improving patient outcomes.
+ 
+  
  <br><br>The Spine Journal reported a study in April 2017 (1) found "miss" rates in of Lumbar MRI results to be 46%.  The results stated, 
  <br><i>"This study found marked variability in the reported interpretive findings and a high prevalence of interpretive errors in radiologists' reports. Findings pointed to the variability of interpretation and states "As a result, the authors conclude that where a patient obtains his or her MRI examination and which radiologist interprets the examination may have a direct impact on radiological diagnosis, subsequent choice of treatment, and clinical outcome."</i>
  
-<br><br>Radiologist must compare multiple angles simultaneously to determine correct results.  Machine learning models are well suited for such simultaneous comparisons.  Gathering the experience of physicians that are contained in the data from previous results, machine learning models can learn to recognize and label results quickly, consistently, alerting radiologists to potential conflicts with their findings.  This validation system can result in reducing the costs of human validation, reduce costs with fewer lawsuits through consistent findings, and resulting in improved patient outcomes.
-
 
 
 Project
 ========================================================
 
 <small>This project creates a predictive machine to label lumbar x-ray results as "Abnormal" or "Normal' in cases of Spondylolisthesis.  It ingests 6 quantitative measurements to determine the results using the predictive model created.  This model will result in a reduced error rate, improving consistency, and can be used as an initial sorting or secondary validation system.  As the model continues to train on new data, from various Radiological results, I expect the algorithm to imrove and develop into a system that can be relied on as accurate with only the occassional need for human input.
+ 
+ Gathering the experience of physicians that are contained in the data from previous results, machine learning models can learn to recognize and label results quickly, consistently, alerting radiologists to potential conflicts with their findings.  This validation system can result in reducing the costs of human validation, reduce costs with fewer lawsuits through consistent findings, and resulting in improved patient outcomes.
+
 </small> 
 
 
