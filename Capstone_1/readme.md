@@ -6,16 +6,24 @@ date:  March 2021
 <img src="coursera.png" style="width:15%"
 </div>
 
-Description
+Why
 ========================================================
 
 <small>
-Spondylolisthesis is a slipped vertebra in the spine.  With early intervention, the treatment and outcomes can be non-invasive and less costly.  A low-grade abnormality can be treated with a brace, physical therapy, and rest, allowing the bone to heal.  Higher-grade fractures require major surgery, long recovery, and potential lifelong disability.
+Spondylolisthesis is a slipped vertebra in the spine.  With early intervention, the treatment and outcomes can be non-invasive and less costly, potentially avoiding major surgery and life-long lifestyle changes.
+ 
+Some amount of Spondylolisthesis is expected making determination of "Abnormal" versus "Normal" difficult.  The Spine Journal reported a study in April 2017 (ref 1) that looked at error rates in in results and found "This study found marked variability in the reported interpretive findings and a high prevalence of interpretive errors in radiologists' reports". the variability for this study included a miss rate of 46%.  Findings pointed to the variability of interpretation and states "As a result, the authors conclude that where a patient obtains his or her MRI examination and which radiologist interprets the examination may have a direct impact on radiological diagnosis, subsequent choice of treatment, and clinical outcome."
+ 
+Radiologist must compare multiple angles simultaneously to determine correct results.  Machine learning models are well suited for such simultaneous comparisons.  Gathering the experience of physicians that are contained in the data from previous results, machine learning models can learn to recognize and label results quickly, consistently, alerting radiologists to potential conflicts with their findings.  This validation system can result in reducing the costs of human validation, reduce costs with fewer lawsuits through consistent findings, and resulting in improved patient outcomes.
 
-The symptoms are common to many minor sports injuries and everyday aches and pains such as tight hamstrings and tingling in the feet.  Without distinctive symptoms it can be difficult to recognize the issue early.  An x-ray is required to help physicians determine the proper treatment.  Proper classification of the results contains an additional challenge, it requires several angles to be compared simultaneously in order to determine normal or abnormal.  This takes years of training and expertise.  Machine learning models are well suited for such simultaneous comparisons.  Gathering the experience of physicians that are contained in the data from previous results, machine learning models can learn to recognize and label results quickly, assisting radiologists, reducing costs, and providing patients faster results.
 
-This project takes a look at how to best classify cases of Spondylolisthesis as 'Normal' versus 'Abnormal'.  The machine will feed previous results into the model, allowing it to learn from the data, and generate predictions that label each result as Normal or Abnormal, indicating if a need to follow-up with a physician is recommended.
+
+Project
+========================================================
+
+<small>This project creates a predictive machine to label lumbar x-ray results as "Abnormal" or "Normal' in cases of Spondylolisthesis.  It ingests 6 quantitative measurements to determine the results using the predictive model created.  This model will result in a reduced error rate, improving consistency, and can be used as an initial sorting or secondary validation system.  As the model continues to train on new data, from various Radiological results, I expect the algorithm to imrove and develop into a system that can be relied on as accurate with only the occassional need for human input.
 </small> 
+
 
 
 Data
@@ -36,7 +44,13 @@ The data for this project was gathered from Kaggle's collection in csv format.**
 Statistical Analysis
 ========================================================
 <small>
-The data is imbalanced with 210 Abnormal and 100 Normal which is addressed during model development.  Using Tukey's Method with a z-score of 2, three potential outliers were identified.  A radiologist was consulted and it was agreed one record >400 in the 'degree' feature was a probable outlier.  This record was removed resulting in 209 Abnormal and 100 Normal records.
+Total of 309 Patient Records were used (1 outlier was removed)
+ 
+209 Abnormal, 100 Normal results
+ </small> 
+ 
+ <small>
+Tukey's Method with a z-score of 2 identified three potential outliers, only 1 was removed, the other 2 were still within 99% confidence range.  
  </small>   
 
 
@@ -51,3 +65,8 @@ K-Fold validation of five was used during hyper parameter tuning to avoid overfi
 Results
 ========================================================
 <small>Three of the models performed comparably well.  Logistic Regression had the top accuracy score of 91% with the Gradient Boosting Classifier and Support Vector Machine coming in second at 86%, just 5% less. </small> 
+
+
+References
+========================================================
+Ref 1:  https://www.sciencedirect.com/science/article/pii/S1529943016310932
