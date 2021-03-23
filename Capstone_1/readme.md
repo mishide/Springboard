@@ -11,9 +11,9 @@ date:  March 2021
 <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb" target="_blank">Machine Learning Models</a>.
    </h3>
  <br><br>
- <h5><b>EDA:</b> performs the cleaning and initial statistical analysis<br>
+ <h4><b>EDA:</b> performs the cleaning and initial statistical analysis<br>
 <b> Machine Learning Models:</b> 1) builds and tests the models 2) reviews results & recommendations</li></ol>
-</h5>
+</h4>
 
 <br>
 <br>
