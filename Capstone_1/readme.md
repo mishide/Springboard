@@ -28,7 +28,7 @@ The project code is contained in the '/scripts' folder in this repo or you can r
 There are 2 notebooks for this project:  EDA and MODEL
  EDA: performs the cleaning and initial statistical analysis: https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb
  MODEL: addressing feature correlations, then builds and tests the model, and finally reports results and recommendations
- 
+https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb 
 
 
 Data
