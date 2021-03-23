@@ -10,7 +10,7 @@ date:  March 2021
 <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb">EDA Analysis</a><br> and <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb 
 ">Machine Learning Models</a><br><br>
  <b>EDA:</b> performs the cleaning and initial statistical analysis<br><br>
-<b> Machine Learning Models:</b> 1) addresses feature correlaltions 2) builds and test models 3) reports recommendations
+<b> Machine Learning Models:</b> <ol> <li>1) addresses feature correlaltions </li><li>2) builds and test models</li><li> 3) results & recommendations</li></ol>
 
 
 
