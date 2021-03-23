@@ -8,7 +8,6 @@ date:  March 2021
  
 <b>The Code:</b> Is contained in 2 notebooks for this project: 
 
-Read more: https://html.com/paragraphs/#ixzz6pyT32Q9C
     <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb">EDA Analysis</a><br> and <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb
     ">Machine Learning Models</a> 
     <br><br>
