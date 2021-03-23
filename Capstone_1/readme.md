@@ -3,10 +3,6 @@ Data Science Capstone: Classification of Spondylolisthesis
 author: Michelle Ide
 date:  March 2021
 autosize: true
-transition: rotate
-transition-speed: slow
-incremental: true
-font-import: http://fonts.googleapis.com/css?family=Helvetica
 font-family: 'Helvetica'
 
 <div>
