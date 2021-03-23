@@ -8,9 +8,9 @@ date:  March 2021
  
 <b>The Code:</b> Is contained in 2 notebooks for this project: <br>  
 <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb">EDA Analysis</a><br> and <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb 
-">Machine Learning Models</a><br><br>
- <b>EDA:</b> performs the cleaning and initial statistical analysis<br><br>
-<b> Machine Learning Models:</b> <ol> <li>1) addresses feature correlaltions </li><li>2) builds and test models</li><li> 3) results & recommendations</li></ol>
+">Machine Learning Models</a><br>
+ <b>EDA:</b> performs the cleaning and initial statistical analysis<br>
+<b> Machine Learning Models:</b> <ol> <li>addresses feature correlaltions </li><li>builds and test models</li><li>results & recommendations</li></ol>
 
 
 
