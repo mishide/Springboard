@@ -3,7 +3,7 @@ Data Science Capstone: Classification of Spondylolisthesis
 author: Michelle Ide
 date:  March 2021
 <div>
-<img src="images/R_B_spine.png" width="200"
+<img src="images/R_B_spine.png" ALIGN="left" width="200"
 </div>
 
 The project code is contained in the '/scripts' folder in this repo or you can run them by following the links below.<nl>
