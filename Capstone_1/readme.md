@@ -7,8 +7,8 @@ date:  March 2021
 </div>
  <br>
  <br>
- <font size=15>
-  <b>The Code:</b> Is contained in 2 notebooks for this project: </font>
+ <medium>
+  <b>The Code:</b> Is contained in 2 notebooks for this project: </medium>
 <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb" target="_blank">EDA</a> and
 <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb" target="_blank">Machine Learning Models</a>.
     
