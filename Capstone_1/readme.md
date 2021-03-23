@@ -6,10 +6,13 @@ date:  March 2021
 <img src="images/R_B_spine.png" ALIGN="left" width="200"
 </div>
  
-There are 2 notebooks for this project:  EDA and MODEL<nl>
- EDA: performs the cleaning and initial statistical analysis: https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb
+The Code: Is contained in 2 notebooks for this project:  EDA and MODEL<br>
+ EDA: performs the cleaning and initial statistical analysis:
+ <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb">EDA Analysis</a>
+ <br>
  MODEL: addressing feature correlations, then builds and tests the model, and finally reports results and recommendations
-https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb 
+ <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb 
+">Machine Learning Models</a>
 
 
 Why
