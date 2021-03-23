@@ -7,8 +7,11 @@ date:  March 2021
 </div>
  
 <b>The Code:</b> Is contained in 2 notebooks for this project: <br>  
+<style> .indented { padding-left: 50pt; padding-right: 50pt; }
+
+Read more: https://html.com/paragraphs/#ixzz6pyT32Q9C
     <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb">EDA Analysis</a><br> and <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb
-    ">Machine Learning Models</a><br><br>
+    ">Machine Learning Models</a> </style><br><br>
  <b>EDA:</b> performs the cleaning and initial statistical analysis<br>
 <b> Machine Learning Models:</b> 1) builds and tests the models 2) reviews results & recommendations</li></ol>
 
