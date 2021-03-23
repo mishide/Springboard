@@ -7,7 +7,7 @@ date:  March 2021
 </div>
  
 <b>The Code:</b> Is contained in 2 notebooks for this project: 
-<a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb" target="_blank">EDA</a>
+<a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb" target="_blank">EDA</a> &&
 <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb" target="_blank">Machine Learning Models</a>.
     
  <b>EDA:</b> performs the cleaning and initial statistical analysis<br>
