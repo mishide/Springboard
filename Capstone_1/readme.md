@@ -21,17 +21,15 @@ Why
 ========================================================
 
 <small>
-Spondylolisthesis is a slipped vertebra in the spine diagnosied with the help of radiology results
+Spondylolisthesis is a slipped vertebra.  The first step in proper diagnosis requires an x-ray.
  
- A study  tested accuracy rates of MRI Lumbar Spine X-Rays to have a miss rate of 46% partly due to variation in radiologist's interpretations.
+ A study published in "The Spine", April 2017 researched accuracy rates of MRI Lumbar Spine results.  They found significant variability and high rate of interpretive errors.  Radiologists, are unique, with unique training and skill, the result being high variance in reporting results.  Conclusions included,  "There was an average of 12.5±3.2 interpretive errors (both false-positives and false-negatives)...The high average interpretive miss rate of 43.6%±11.7 across the study examinations means that important pathologies are routinely underreported."
+<br>
+ <i> Where a patient obtains his or her MRI examination and which radiologist interprets the examination may have a direct impact on radiological diagnosis, subsequent choice of treatment, and clinical outcome."</i>
  
- Variance can be understood given the high amount of "boundry" cases that exist, where Abnormal and Normal values overlap.
- 
- Machine learning is well suited for these types of simultaneous comparisons and this project has built a model that improves the miss rate resulting in reduced cost for everyone, hospitals, physicians, insurance, and patients, as well as improving patient outcomes.
- 
-  
- <br><br>The Spine Journal reported a study in April 2017 (1) found "miss" rates in of Lumbar MRI results to be 46%.  The results stated, 
- <br><i>"This study found marked variability in the reported interpretive findings and a high prevalence of interpretive errors in radiologists' reports. Findings pointed to the variability of interpretation and states "As a result, the authors conclude that where a patient obtains his or her MRI examination and which radiologist interprets the examination may have a direct impact on radiological diagnosis, subsequent choice of treatment, and clinical outcome."</i>
+ Machine learning is well suited for the types of simultaneous angle comparisons performed in determining Spondylolisthesis results.  This project has built a model that improves interpretive errors resulting in reduced cost for everyone, hospitals, physicians, insurance, and patients, as well as improving patient outcomes.  It can also replace the need for the second human interaction for validation.
+ <br>
+
  
 
 
