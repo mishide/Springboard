@@ -37,9 +37,7 @@ Spondylolisthesis is a slipped vertebra.  The first step in proper diagnosis req
 Project
 ========================================================
 
-<small><b>This project creates a predictive machine to label lumbar x-ray results as "Abnormal" or "Normal' in cases of Spondylolisthesis to reduce interpretive errors.</b>  
-  <br><br>
-  It ingests 6 quantitative measurements to determine the results using the predictive model created.  Gathering the experience of physicians that are contained in the data, machine learning models can learn to recognize and label results quickly and consistently, alerting radiologists to potential conflicts with their findings.
+<small><b>This project creates a predictive machine to label lumbar x-ray results as "Abnormal" or "Normal' in cases of Spondylolisthesis to reduce interpretive errors and increase consistency resulting in reduced costs and improved outcomes.</b>  
 </small> 
 
 
