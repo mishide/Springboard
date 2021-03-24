@@ -46,13 +46,13 @@ Data
 
 <small>
 The data for this project cam from Kaggle's collection in csv format.
-  <br>
- 309 records after outlier removal. 
-  <br>
-  The data is clean and contains no null values.
-  <br>
- 6 quantitative variables
-  1 Target binomial variable (Normal/Abnormal)
+  <br><br>
+ - 309 records after outlier removal. 
+  <br><br>
+  - The data is clean and contains no null values.
+  <br><br>
+ - 6 quantitative variables
+ - 1 Target binomial variable (Normal/Abnormal)
 </small><small>
 
 * Pelvic Tilt
@@ -61,19 +61,6 @@ The data for this project cam from Kaggle's collection in csv format.
 * Lumbar Lardosis Angle
 * Sacral Slope
 * Degree Spondylolisthesis.</small>
-
-
-Statistical Analysis
-========================================================
-<small>
-Total of 309 Patient Records were used (1 outlier was removed)
- 
-209 Abnormal, 100 Normal results
- </small> 
- 
- <small>
-Tukey's Method with a z-score of 2 identified three potential outliers, only 1 was removed, the other 2 were still within 99% confidence range.  
- </small>   
 
 
 Modeling
@@ -86,7 +73,7 @@ K-Fold validation of five was used during hyper parameter tuning to avoid overfi
 
 Results
 ========================================================
-<small>Three of the models performed comparably well.  Logistic Regression had the top accuracy score of 91% with the Gradient Boosting Classifier and Support Vector Machine coming in second at 86%, just 5% less. </small> 
+<small>Three of the models performed >88% in accuracy.  Logistic Regression 91%, Gradient Boosting Classifier 88%, and Support Vector Machine 88%. </small> 
 
 
 References
