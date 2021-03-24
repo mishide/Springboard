@@ -28,7 +28,7 @@ Spondylolisthesis is a slipped vertebra.  The first step in proper diagnosis req
 <br><br>
  <i> "There was an average of 12.5±3.2 interpretive errors (both false-positives and false-negatives)...The high average interpretive miss rate of 43.6%±11.7 across the study examinations means that important pathologies are routinely underreported.  Where a patient obtains his or her MRI examination and which radiologist interprets the examination may have a direct impact on radiological diagnosis, subsequent choice of treatment, and clinical outcome."</i>
  <br><br>
- Machine learning is well suited for the types of simultaneous angle comparisons performed in determining Spondylolisthesis results.  This project has built a model that improves interpretive errors resulting in reduced cost for everyone, hospitals, physicians, insurance, and patients, as well as improving patient outcomes.  It can also replace the need for the second human interaction for validation.
+ Machine learning is well suited for the types of simultaneous angle comparisons performed in determining Spondylolisthesis results.  This project has built a model that improves interpretive errors resulting in reduced cost for many; hospitals, physicians, insurance, and patients, while improving many patient outcomes.
  <br>
 
  
@@ -37,10 +37,9 @@ Spondylolisthesis is a slipped vertebra.  The first step in proper diagnosis req
 Project
 ========================================================
 
-<small>This project creates a predictive machine to label lumbar x-ray results as "Abnormal" or "Normal' in cases of Spondylolisthesis.  It ingests 6 quantitative measurements to determine the results using the predictive model created.  This model will result in a reduced error rate, improving consistency, and can be used as an initial sorting or secondary validation system.  As the model continues to train on new data, from various Radiological results, I expect the algorithm to imrove and develop into a system that can be relied on as accurate with only the occassional need for human input.
- 
- Gathering the experience of physicians that are contained in the data from previous results, machine learning models can learn to recognize and label results quickly, consistently, alerting radiologists to potential conflicts with their findings.  This validation system can result in reducing the costs of human validation, reduce costs with fewer lawsuits through consistent findings, and resulting in improved patient outcomes.
-
+<small><b>This project creates a predictive machine to label lumbar x-ray results as "Abnormal" or "Normal' in cases of Spondylolisthesis to reduce interpretive errors.</b>  
+  <br><br>
+  It ingests 6 quantitative measurements to determine the results using the predictive model created.  Gathering the experience of physicians that are contained in the data, machine learning models can learn to recognize and label results quickly and consistently, alerting radiologists to potential conflicts with their findings.
 </small> 
 
 
