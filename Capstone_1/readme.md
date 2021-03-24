@@ -45,7 +45,7 @@ Data
 <small>
 The data for this project came from Kaggle's collection "Biomechanical Features in Orthopedic Patients.
   <br><br>
- - 309 records after outlier removal. 
+ ** 309 records after outlier removal. 
   <br><br>
   - The data is clean and contains no null values.
   <br><br>
@@ -58,7 +58,7 @@ The data for this project came from Kaggle's collection "Biomechanical Features 
 * Lumbar Lardosis Angle
 * Sacral Slope
 * Degree Spondylolisthesis.</small>
- <br><br>
+ <br>
  - 1 Target binomial variable (Normal/Abnormal)
 
 
