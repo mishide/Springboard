@@ -112,4 +112,7 @@ Create unique splits to data prior to train-test split to test sparse data proce
 
 References
 ========================================================
-ref1:  https://www.sciencedirect.com/science/article/pii/S1529943016310932
+ref1:  The Spine Journal, Volume 17, Issue 4, April 2017, Pages 554-561
+     Link: https://www.sciencedirect.com/science/article/pii/S1529943016310932
+ref2:  Cross-Validation for Imbalanced Datasets: Avoiding Overoptimistic and Overfitting Approaches, October 2018IEEE Computational Intelligence Magazine 13(4):59-76, DOI: 10.1109/MCI.2018.2866730<br>
+    Link:  https://www.researchgate.net/publication/328315720_Cross-Validation_for_Imbalanced_Datasets_Avoiding_Overoptimistic_and_Overfitting_Approaches
