@@ -7,14 +7,12 @@ date:  March 2021
 </div>
   <h3 style="font-size: 11">Code</b> can be found easily by clicking
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb" target="_blank">EDA</a> or
-<a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb" target="_blank">Machine Learning Models</a>.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </h3>
  </b>
-<h4 style="font-size:20px;">EDA:</h4>
 <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb" target="_blank">EDA</a>&nbsp;&nbsp; performs the cleaning and initial statistical analysis
 <br>
-<h4 style="font-size:20px;">Machine Learning Models:</h4> &nbsp;&nbsp; 1) build and tests the models 2) results & recommendations
+<a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb" target="_blank">Machine Learning Models</a>&nbsp;&nbsp; 1) build and tests the models 2) results & recommendations
 <br>
 <br>
 
