@@ -74,6 +74,7 @@ Modeling
 <small>
 6 models were tuned and tested for accuracy.  
  <br>
+    
 * Logistic Regression:  low CPU cost, easy to tune, linear based is sensitive to feature corr & outliers
 * Gradient Boost:  combines multiple trees to reduce overfitting, high CPU cost & tuning
 * Support Vector Machine:  +imbalance & smaller datasets, difficult to tune - needs large boundaries
