@@ -6,7 +6,8 @@ date:  March 2021
 <img src="images/R_B_spine.png" ALIGN="left" width="200"
 </div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><font-size: 30">Code can be viewed by clicking</b>
-    <br>
+ <br>
+ <br>
  </b>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb" target="_blank">EDA</a>&nbsp;&nbsp;&nbsp;&nbsp; performs the cleaning and initial statistical analysis
 <br>
@@ -14,13 +15,13 @@ date:  March 2021
 
 <br>
 <br>
-
+<br>
 Why
 ========================================================
 
 <small>
 Spondylolisthesis is a slipped vertebra.  The first step in proper diagnosis requires an x-ray determination of "Abnormal" or "Normal".
- 
+ <br>
  A study published in "The Spine", April 2017 researched accuracy rates of MRI Lumbar Spine results.  They found significant variability and high rate of interpretive errors.  Radiologists, are unique, with unique training and skill, the result being high variance in reporting results.  Conclusions included,  "There was an average of 12.5±3.2 interpretive errors (both false-positives and false-negatives)...The high average interpretive miss rate of 43.6%±11.7 across the study examinations means that important pathologies are routinely underreported."
 <br>
  <i> Where a patient obtains his or her MRI examination and which radiologist interprets the examination may have a direct impact on radiological diagnosis, subsequent choice of treatment, and clinical outcome."</i>
