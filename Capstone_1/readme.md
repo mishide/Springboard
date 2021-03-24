@@ -43,7 +43,7 @@ Data
 ========================================================
 
 <small>
-The data for this project cam from Kaggle's collection in csv format.
+The data for this project came from Kaggle's collection "Biomechanical Features in Orthopedic Patients.
   <br><br>
  - 309 records after outlier removal. 
   <br><br>
