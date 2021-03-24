@@ -5,7 +5,7 @@ date:  March 2021
 <div>
 <img src="images/R_B_spine.png" ALIGN="left" width="200"
 </div>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h3 style="font-size: 11">Code</b> can be found by clicking </h3>
+  <h3 style="font-size: 11">Code</b> can be found by clicking </h3>
   <br>
  </b>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb" target="_blank">EDA</a>&nbsp;&nbsp;&nbsp;&nbsp; performs the cleaning and initial statistical analysis
@@ -19,7 +19,7 @@ Why
 ========================================================
 
 <small>
-Spondylolisthesis is a slipped vertebra.  The first step in proper diagnosis requires an x-ray.
+Spondylolisthesis is a slipped vertebra.  The first step in proper diagnosis requires an x-ray determination of "Abnormal" or "Normal".
  
  A study published in "The Spine", April 2017 researched accuracy rates of MRI Lumbar Spine results.  They found significant variability and high rate of interpretive errors.  Radiologists, are unique, with unique training and skill, the result being high variance in reporting results.  Conclusions included,  "There was an average of 12.5±3.2 interpretive errors (both false-positives and false-negatives)...The high average interpretive miss rate of 43.6%±11.7 across the study examinations means that important pathologies are routinely underreported."
 <br>
