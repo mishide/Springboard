@@ -66,13 +66,21 @@ Approach
 ========================================================
 Six well-known classification models were tested using 70% of the data to train and 30% to test. A large range of potential hyper parameter settings were tested for each model, determining the best settings for this project. Each model was selected due to it's usefulness in classification problems and it's differences in algorithmic process compared to the remaining models.
 
-A stratified train-test split was used due to the imbalanced data in combination with upsampling methods performed during crossvalidation.  Upsampling methods were selected for their performance and potential for addressing the complexity in 'boundry' cases that exist in this project.  SMOTE-TL was determined to perform best overall by research performed by  'Santos, Soares, Abreu, Araujo"* in 2018.  ADASYN was included due to it's approach to the minority class, adding weight to boundry minority data in an effort to amplify and clarify separation.
+A stratified train-test split was used due to the imbalanced data in combination with upsampling methods performed during crossvalidation.  Upsampling methods were selected for their performance and potential for addressing the complexity in 'boundry' cases that exist in this project.  SMOTE-TL was determined to perform best overall by research performed by  'Santos, Soares, Abreu, Araujo"* in 2018.(ref2)  ADASYN was included due to it's approach to the minority class, adding weight to boundry minority data in an effort to amplify and clarify separation.
 
 
 Modeling
 ========================================================
 <small>
-When comparing results, this algorithmic process was taken into account, given the nature of the data. Three models performed similarly with the Logistic Regression performing 5% higher than the Gradient Boosting and Support Vector Machine. The linear nature of the Logistic Regression is not as reliable when dealing with extreme, sparse, values making the remaining 2 algorithms a good first choice. The Gradient Boosting algorithm is extremely slow on just 309 samples and may be undesirable with large amounts of data, depending on the hardware used. The Support Vector Machine, similar to Logistic Regression in accuracy with a 3% difference, would provide the flexible boundaries needed to absorb infrequent extremes without dragging the center population down in precision.
+6 models were tuned and tested for accuracy.  
+ <br>
+* Logistic Regression:  low CPU cost, easy to tune, linear based is sensitive to feature corr & outliers
+* Gradient Boost:  combines multiple trees to reduce overfitting, high CPU cost & tuning
+* Support Vector Machine:  +imbalance & smaller datasets, difficult to tune - needs large boundaries
+* Random Forest Classifier: less prone to overfitting, lower accuracy for highly corr features
+* Kneighbors Classifier: evolves & flexible hyper parameters, sensitive to outliers & data imbalance
+* Gaussian Naive Bayes: Not sensitive to outliers or imbalances, assumes feature independence
+<br>
  </small> 
 
 
