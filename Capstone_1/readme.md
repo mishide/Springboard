@@ -5,7 +5,8 @@ date:  March 2021
 <div>
 <img src="images/R_B_spine.png" ALIGN="left" width="200"
 </div>
-  <b><h3 style="font-size: 11">The Code:</b> Can be opened in these two notebooks:<br>
+  <h3 style="font-size: 11">Code</b> can be found easily by clicking below
+  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb" target="_blank">EDA</a> and
 <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb" target="_blank">Machine Learning Models</a>.
  </h3>
