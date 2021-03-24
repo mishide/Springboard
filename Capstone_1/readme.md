@@ -24,7 +24,7 @@ Why
 Spondylolisthesis is a slipped vertebra.  The first step in proper diagnosis requires an x-ray determination of "Abnormal" or "Normal".
  <br>
   <br>
- A study published in "The Spine", April 2017 researched accuracy rates of MRI Lumbar Spine results.  It found significant variability and a high rate of interpretive errors. The conclusions stated,
+ A study published in "The Spine", April 2017(ref1) researched accuracy rates of MRI Lumbar Spine results.  It found significant variability and a high rate of interpretive errors. The conclusions stated,
 <br><br>
  <i> "There was an average of 12.5±3.2 interpretive errors (both false-positives and false-negatives)...The high average interpretive miss rate of 43.6%±11.7 across the study examinations means that important pathologies are routinely underreported.  Where a patient obtains his or her MRI examination and which radiologist interprets the examination may have a direct impact on radiological diagnosis, subsequent choice of treatment, and clinical outcome."</i>
  <br><br>
@@ -86,4 +86,4 @@ Results
 
 References
 ========================================================
-Ref 1:  https://www.sciencedirect.com/science/article/pii/S1529943016310932
+ref1:  https://www.sciencedirect.com/science/article/pii/S1529943016310932
