@@ -50,7 +50,6 @@ The data for this project came from Kaggle's collection "Biomechanical Features 
   - The data is clean and contains no null values.
   <br><br>
  - 6 quantitative variables
- - 1 Target binomial variable (Normal/Abnormal)
 </small><small>
 
 * Pelvic Tilt
@@ -59,6 +58,8 @@ The data for this project came from Kaggle's collection "Biomechanical Features 
 * Lumbar Lardosis Angle
 * Sacral Slope
 * Degree Spondylolisthesis.</small>
+* <br><br>
+ - 1 Target binomial variable (Normal/Abnormal)
 
 
 Approach
