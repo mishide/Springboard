@@ -27,7 +27,7 @@ Spondylolisthesis is a slipped vertebra.  The first step in proper diagnosis req
 <br><br>
  <i> "There was an average of 12.5±3.2 interpretive errors (both false-positives and false-negatives)...The high average interpretive miss rate of 43.6%±11.7 across the study examinations means that important pathologies are routinely underreported."</i>
  <br><br>
- Machine learning is well suited for the types of simultaneous angle comparisons performed in determining Spondylolisthesis results.  This project has built a model that improves interpretive errors resulting in reduced cost for many; hospitals, physicians, insurance, and patients, while improving many patient outcomes.
+ Machine learning is well suited for the types of simultaneous angle comparisons performed in determining Spondylolisthesis results.  This project has built a model that reduces interpretive errors resulting in reduced cost for many; hospitals, physicians, insurance, and patients, while improving many patient outcomes.
 
  
 
