@@ -11,7 +11,8 @@ date:  March 2021
 <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb" target="_blank">Machine Learning Models</a>.
  </h3>
  </b>
-<h4 style="font-size:20px;">EDA:</h4> &nbsp;&nbsp; performs the cleaning and initial statistical analysis
+<h4 style="font-size:20px;">EDA:</h4>
+<a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb" target="_blank">EDA</a>&nbsp;&nbsp; performs the cleaning and initial statistical analysis
 <br>
 <h4 style="font-size:20px;">Machine Learning Models:</h4> &nbsp;&nbsp; 1) build and tests the models 2) results & recommendations
 <br>
