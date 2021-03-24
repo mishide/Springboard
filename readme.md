@@ -5,13 +5,9 @@ Projects and Capstones for Springboard's Data Science Career Track - over 500 ho
 Includes use of Python to make API calls, wrangle data contained in JSON data, statistical analysis and visualizations, basic SQL, and Machine Learning
 
 <b> Capstone </b>
-Supervised Classification of a binomial target including:
-Comparison of 6 well known classification models with recommendation based on accuracy and what is known about the data and algorithms
-Analysis of feature correlations
-p-value for H0 test
-Identification of outliers using Tukey's Method, z-score
-Addressing imbalanced data using stratified train-test split and upsampling methods
-PCA to reduce dimensionality
+Supervised Classification of a binomial target.<br>
+6 well known classification models are tested with resulting recommendation based on accuracy and what is known about the data and algorithms<br>
+Analysis of feature correlations with PCA dimensionality reduction, p-value for H0 test, Tukey's Method for outlier identification, imbalanced data addressed with upsampling<br>
 Accuracy measures: AUC ROC, Confusion Matrix, F1, Recall, Precision
 <br><br>
 <h3> STATISTICS</h3>
