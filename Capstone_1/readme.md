@@ -63,17 +63,41 @@ The data for this project cam from Kaggle's collection in csv format.
 * Degree Spondylolisthesis.</small>
 
 
+Approach
+========================================================
+Six well-known classification models were tested using 70% of the data to train and 30% to test. A large range of potential hyper parameter settings were tested for each model, determining the best settings for this project. Each model was selected due to it's usefulness in classification problems and it's differences in algorithmic process compared to the remaining models.
+
+A stratified train-test split was used due to the imbalanced data in combination with upsampling methods performed during crossvalidation.  Upsampling methods were selected for their performance and potential for addressing the complexity in 'boundry' cases that exist in this project.  SMOTE-TL was determined to perform best overall by research performed by  'Santos, Soares, Abreu, Araujo"* in 2018.  ADASYN was included due to it's approach to the minority class, adding weight to boundry minority data in an effort to amplify and clarify separation.
+
+
 Modeling
 ========================================================
-<small>To address this imbalance the train-test split was stratified to ensure identical proportions within the split.  The test data split contained 30% of the population.
-
-Several methods of oversampling were performed on the minority class (normal). Initially, oversampling methods SMOTE and ADASYN were tested.  While SMOTE creates synthetic data points from the minority class at random, ADASYN adds weight to the boundary cases which are of importance to this project.  However, due to research performed by  'Santos, Soares, Abreu, Araujo"* in 2018 I choose to add SMOTE-TL due to it's superior performance when compared to SMOTE and the potential for ADASYN's weighting measure, the benefit we seek to balance the minority data, can also adds weight to noisy data skewing the results toward the majority.  All oversampling methods were performed inside cross-validation to prevent overly-optomistic estimates.  
-K-Fold validation of five was used during hyper parameter tuning to avoid overfitting. </small> 
+<small>
+When comparing results, this algorithmic process was taken into account, given the nature of the data. Three models performed similarly with the Logistic Regression performing 5% higher than the Gradient Boosting and Support Vector Machine. The linear nature of the Logistic Regression is not as reliable when dealing with extreme, sparse, values making the remaining 2 algorithms a good first choice. The Gradient Boosting algorithm is extremely slow on just 309 samples and may be undesirable with large amounts of data, depending on the hardware used. The Support Vector Machine, similar to Logistic Regression in accuracy with a 3% difference, would provide the flexible boundaries needed to absorb infrequent extremes without dragging the center population down in precision.
+ </small> 
 
 
 Results
 ========================================================
-<small>Three of the models performed >88% in accuracy.  Logistic Regression 91%, Gradient Boosting Classifier 88%, and Support Vector Machine 88%. </small> 
+<small>Logistic Regression preformed with the highest accuracy of 91%, Support Vector Machine 88%. </small> 
+<br><br>
+Using the ADASYN upsampling method: Out of 100 samples, 10 will be false positive ( Abnormal ), and 0 will be false negative ( Normal )
+<br><br>
+Using SMOTE-TL: Out of 100 samples, 7 will be false positive ( Abnormal ) and 1 will be false negative ( Normal )
+
+
+Recommendations
+========================================================
+<small>I recommend Support Vector Machine with either ADASYN or SMOTE-TL method for upsampling. The choice between these two methods depends on the sensitivity requirements for false negatives and positives.
+Using ADASYN it can be expected to have rarely, if ever, false negative results, there will however be 3 more false positive contained in every 100 samples.
+My past experience in healthcare research leads me to lean toward ADASYN and avoid false negatives. However, 10 out of 100 false positives could reduce confidence in results and lead to additional costs in follow-up testing. This decision betweenn the 2 sampling methods would require feedback from decision makers.
+
+
+Future Development
+========================================================
+Test several stacking methods to search for improved accuracy - this would provide additional layers of testing results to verify.
+Test and train on more data, 309 samples is not bad to start but much more would be needed to validate results condidently.
+Create unique splits to data prior to train-test split to test sparse data processing for small radiology departments with fewer results to run.
 
 
 References
