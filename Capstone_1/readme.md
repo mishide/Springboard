@@ -5,10 +5,7 @@ date:  March 2021
 <div>
 <img src="images/R_B_spine.png" ALIGN="left" width="300"
 </div>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><font-size: 30">Code can be viewed by clicking</b>
- <br>
- <br>
- </b>
+
     
 Code
 ========================================================
