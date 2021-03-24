@@ -23,7 +23,7 @@ Why
 <small>
 Spondylolisthesis is a slipped vertebra in the spine diagnosied with the help of radiology results
  
- A study performed in 2012 by .......... tested accuracy rates of MRI Lumbar Spine X-Rays to have a miss rate of 46% partly due to variation in radiologist's interpretations.
+ A study  tested accuracy rates of MRI Lumbar Spine X-Rays to have a miss rate of 46% partly due to variation in radiologist's interpretations.
  
  Variance can be understood given the high amount of "boundry" cases that exist, where Abnormal and Normal values overlap.
  
