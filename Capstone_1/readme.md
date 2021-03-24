@@ -14,7 +14,7 @@ Code
 <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb" target="_blank">Machine Learning Models</a>&nbsp; 1) build and tests the models 2) results & recommendations
 
 
-
+<br>
 Why
 ========================================================
 
@@ -68,7 +68,7 @@ Approach
 ========================================================
 Six well-known classification models were tested using 70% of the data to train and 30% to test. A large range of potential hyper parameter settings were tested for each model, determining the best settings for this project. Each model was selected due to it's usefulness in classification problems and it's differences in algorithmic process compared to the remaining models.
 
-A stratified train-test split was used due to the imbalanced data in combination with upsampling methods performed during crossvalidation.  Upsampling methods were selected for their performance and potential for addressing the complexity in 'boundry' cases that exist in this project.  SMOTE-TL was determined to perform best overall by research performed by  'Santos, Soares, Abreu, Araujo"* in 2018.(ref2)  ADASYN was included due to it's approach to the minority class, adding weight to boundry minority data in an effort to amplify and clarify separation.
+A stratified train-test split was used due to the imbalanced data in combination with upsampling methods performed during crossvalidation.  Upsampling methods were selected for their performance and potential for addressing the complexity in 'boundry' cases that exist in this project.  SMOTE-TL was determined to perform best overall by research performed in 2018 by 'Santos, Soares, Abreu, Araujo"(ref2).  ADASYN was included due to it's approach to the minority class, adding weight to boundry minority data in an effort to amplify and clarify separation.
 
 
 Modeling
@@ -98,9 +98,9 @@ Using SMOTE-TL: Out of 100 samples, 7 will be false positive ( Abnormal ) and 1 
 
 Recommendations
 ========================================================
-<small>I recommend Support Vector Machine with either ADASYN or SMOTE-TL method for upsampling. The choice between these two methods depends on the sensitivity requirements for false negatives and positives.
-Using ADASYN it can be expected to have rarely, if ever, false negative results, there will however be 3 more false positive contained in every 100 samples.
-My past experience in healthcare research leads me to lean toward ADASYN and avoid false negatives. However, 10 out of 100 false positives could reduce confidence in results and lead to additional costs in follow-up testing. This decision betweenn the 2 sampling methods would require feedback from decision makers.
+<small>I recommend Logistic Regression using ADASYN upsampling. This model results in a reduction of error of >2%. while including a sensitivity that reduces false negatives.  For this model 0 false negatives were observed. My past experience in healthcare research leads me to lean toward ADASYN and avoid false negatives. However, 10 out of 100 false positives could reduce confidence in results and lead to additional costs in follow-up testing. This decision betweenn the 2 sampling methods would require feedback from decision makers.  Due to the linear nature of Logistic Regression, I would recommend additonal testing with Support Vector Machine running tandem with Logistic Regression.  Logistic regressions linear nature causes it to be more sensitive to extreme values and outliers, I suspect with ore testing and training the SVM may perform better and more consistently overall due to a flexible boundry that can adjust to extremes without skewing other data points.
+
+
 
 
 Future Development
@@ -114,5 +114,5 @@ References
 ========================================================
 ref1:  The Spine Journal, Volume 17, Issue 4, April 2017, Pages 554-561
      Link: https://www.sciencedirect.com/science/article/pii/S1529943016310932
-ref2:  Cross-Validation for Imbalanced Datasets: Avoiding Overoptimistic and Overfitting Approaches, October 2018IEEE Computational Intelligence Magazine 13(4):59-76, DOI: 10.1109/MCI.2018.2866730<br>
+<br><br>ref2:  Cross-Validation for Imbalanced Datasets: Avoiding Overoptimistic and Overfitting Approaches, October 2018IEEE Computational Intelligence Magazine 13(4):59-76, DOI: 10.1109/MCI.2018.2866730<br>
     Link:  https://www.researchgate.net/publication/328315720_Cross-Validation_for_Imbalanced_Datasets_Avoiding_Overoptimistic_and_Overfitting_Approaches
