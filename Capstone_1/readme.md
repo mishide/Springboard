@@ -45,7 +45,14 @@ Data
 ========================================================
 
 <small>
-The data for this project was gathered from Kaggle's collection in csv format.** Originally containing 310 records prior to statistical analysis, 309 after. The data is clean and contains no null values.  It included a class label of Abnormal or Normal for each record and 6 quantitative variables
+The data for this project cam from Kaggle's collection in csv format.
+  <br>
+ 309 records after outlier removal. 
+  <br>
+  The data is clean and contains no null values.
+  <br>
+ 6 quantitative variables
+  1 Target binomial variable (Normal/Abnormal)
 </small><small>
 
 * Pelvic Tilt
