@@ -24,10 +24,10 @@ Why
 Spondylolisthesis is a slipped vertebra.  The first step in proper diagnosis requires an x-ray determination of "Abnormal" or "Normal".
  <br>
   <br>
- A study published in "The Spine", April 2017 researched accuracy rates of MRI Lumbar Spine results.  They found significant variability and high rate of interpretive errors.  Radiologists, are unique, with unique training and skill, the result being high variance in reporting results.  Conclusions included,  "There was an average of 12.5±3.2 interpretive errors (both false-positives and false-negatives)...The high average interpretive miss rate of 43.6%±11.7 across the study examinations means that important pathologies are routinely underreported."
-<br>
+ A study published in "The Spine", April 2017 researched accuracy rates of MRI Lumbar Spine results.  It found significant variability and a high rate of interpretive errors. The conclusions included, "There was an average of 12.5±3.2 interpretive errors (both false-positives and false-negatives)...The high average interpretive miss rate of 43.6%±11.7 across the study examinations means that important pathologies are routinely underreported."
+<br><br>
  <i> Where a patient obtains his or her MRI examination and which radiologist interprets the examination may have a direct impact on radiological diagnosis, subsequent choice of treatment, and clinical outcome."</i>
- 
+ <br><br>
  Machine learning is well suited for the types of simultaneous angle comparisons performed in determining Spondylolisthesis results.  This project has built a model that improves interpretive errors resulting in reduced cost for everyone, hospitals, physicians, insurance, and patients, as well as improving patient outcomes.  It can also replace the need for the second human interaction for validation.
  <br>
 
