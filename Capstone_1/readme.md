@@ -19,7 +19,7 @@ Code
 Why
 ========================================================
 
-<i><font = 30>A study found in <u>The Spine</u> journal April 2017</i></font>found X-Ray variability within results within 10 different radiology sites to have a sensitivity (True Positive) of 56.4% with the best performing site having a sensitivity of 72%.  Machine learning models in this project produced sensitivity rates of 97%.  
+<font size=6>A study found in <u>The Spine</u> journal April 2017</i></font> found X-Ray variability within results within 10 different radiology sites to have a sensitivity (True Positive) of 56.4% with the best performing site having a sensitivity of 72%.  Machine learning models in this project produced sensitivity rates of 97%.  </font>
 <br><br><br>
 Improving sensitivity can provide a system for radiologists to quickly flag results as a validation tool saving time, cost, and improving patient outcomes.
  
