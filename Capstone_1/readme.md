@@ -15,9 +15,10 @@ Code
 ========================================================
 
 
-<a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb" target="_blank">EDA</a>&nbsp;&nbsp;&nbsp;&nbsp; performs the cleaning and initial statistical analysis
+<p align="center"><a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb" target="_blank">EDA</a>&nbsp;&nbsp;&nbsp;&nbsp; performs the cleaning and initial statistical analysis</p>
 <br><br>
-<a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb" target="_blank">Machine Learning Models</a>&nbsp; 1) build and tests the models 2) results & recommendations
+
+<p align="center"><<a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondlyo_Classification_Models.ipynb" target="_blank">Machine Learning Models</a>&nbsp; 1) build and tests the models 2) results & recommendations</p>
 
 
 <br>
@@ -26,7 +27,7 @@ Code
 Why
 ========================================================
 
-<b>56.4%</b> Sensitivity is the average True Positive results observed across 10 separate radiology sites during a study reported in <u>The Spine</u> journal April 2017.  Ten sites were tested with the highest performance reaching a sensitivity of 72%, meaning 28 out of 100 that were reported as Abnormal were actually normal.
+<b>56.4% Sensitivity is the average True Positive results observed across 10 separate radiology sites during a study reported in <u>The Spine</u> journal April 2017.  Ten sites were tested with the highest performance reaching a sensitivity of 72%, meaning 28 out of 100 that were reported as Abnormal were actually normal</b><
 <br><br>
 
 
@@ -35,7 +36,7 @@ Why
 Project
 ========================================================
 
-<small><b>Machine learning models are well suited for performing these types of classifications.  This project produced a model with a top sensitivity rate of 97%. This model can provide a system used by radiologists to quickly flag results to perform a consistent validation process, saving time, cost, and improving patient outcomes. .</b>  
+<small><b>Machine learning models are well suited for performing these types of classifications.  This project produced a model with a top sensitivity rate of 97%. This model can provide a system used by radiologists to quickly flag results to perform a consistent validation process, saving time, cost, and improving patient outcomes.</b>  
 </small> 
 
 
@@ -99,7 +100,7 @@ Using SMOTE-TL: Out of 100 samples, 7 will be false positive ( Abnormal ) and 1 
 
 Recommendations
 ========================================================
-<small>I recommend Logistic Regression using reduces error from +12.5+/-3.5% to ~8%.  My experience in healthcare research leads me to lean toward ADASYN to avoid false negatives which performed well with an approximate error rate of 10%, however, 10 out of 100 false positives could reduce confidence in results and lead to additional costs in follow-up testing. This decision betweenn the 2 sampling methods would require feedback from decision makers.  Addiitonal testing to compare LR and SVB is recommend.  Logistic regression's linear nature results in more sensitivity to extreme values and outliers, I suspect with more testing and training the SVM may perform better and more consistently overall due to a flexible boundry that can adjust to extremes without skewing other data points.
+<p style = 'monaco'>I recommend Logistic Regression using reduces error from +12.5+/-3.5% to ~8%.  My experience in healthcare research leads me to lean toward ADASYN to avoid false negatives which performed well with an approximate error rate of 10%, however, 10 out of 100 false positives could reduce confidence in results and lead to additional costs in follow-up testing. This decision betweenn the 2 sampling methods would require feedback from decision makers.  Addiitonal testing to compare LR and SVB is recommend.  Logistic regression's linear nature results in more sensitivity to extreme values and outliers, I suspect with more testing and training the SVM may perform better and more consistently overall due to a flexible boundry that can adjust to extremes without skewing other data points.</p>
 
 
 
