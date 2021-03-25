@@ -6,14 +6,11 @@ date:  March 2021
 <img src="images/R_B_spine.png" ALIGN="left" width="300"
 </div>
 
-
-
-
 html-element {
   font-family: Helvetica;
 }
 
-   
+<br><br>  
    
    
 Code
