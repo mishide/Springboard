@@ -5,20 +5,19 @@ date:  March 2021
 <div>
 <img src="images/R_B_spine.png" ALIGN="left" width="300"
 </div>
+
+<style>
+h1 {
+  font-size: 2.5em; /* 40px/16=2.5em */
+}
+
 html-element {
   font-family: Helvetica;
 }
-   
-<br><br><br>
-   
-   
-   
-   
-   
-   
-   
-   
-   
+
+
+  
+<br><br>
    
 Code
 ========================================================
