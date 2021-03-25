@@ -5,7 +5,9 @@ date:  March 2021
 <div>
 <img src="images/R_B_spine.png" ALIGN="left" width="300"
 </div>
-
+@settings {
+  font-size: 100;
+}
 
 
 <br><br>  
@@ -23,9 +25,7 @@ Code
 
 <br>
 
-@settings {
-  font-size: 100;
-}
+
 Why
 ========================================================
 
