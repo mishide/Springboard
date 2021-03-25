@@ -6,15 +6,14 @@ date:  March 2021
 <img src="images/R_B_spine.png" ALIGN="left" width="300"
 </div>
 
-html-element {
-  font-family: Helvetica;
-}
+
 
 <br><br>  
    
    
 Code
 ========================================================
+
 
 <a href="https://github.com/mishide/Springboard/blob/master/Capstone_1/scripts/Spondylo_Classification_EDA.ipynb" target="_blank">EDA</a>&nbsp;&nbsp;&nbsp;&nbsp; performs the cleaning and initial statistical analysis
 <br><br>
@@ -23,10 +22,11 @@ Code
 
 <br>
 
+
 Why
 ========================================================
 
-<h3>A study found in <u>The Spine</u> journal April 2017</i></font> found X-Ray variability within results within 10 different radiology sites to have a sensitivity (True Positive) of 56.4% with the best performing site having a sensitivity of 72%.  Machine learning models in this project produced sensitivity rates of 97%.  </h3>
+<h3 style=font-size:30px>A study found in <u>The Spine</u> journal April 2017</i></font> found X-Ray variability within results within 10 different radiology sites to have a sensitivity (True Positive) of 56.4% with the best performing site having a sensitivity of 72%.  Machine learning models in this project produced sensitivity rates of 97%.  </h3>
 <br><br><br>
 Improving sensitivity can provide a system for radiologists to quickly flag results as a validation tool saving time, cost, and improving patient outcomes.
  
