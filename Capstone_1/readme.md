@@ -27,11 +27,11 @@ Why
 ========================================================
 
 <h3 style=font-size:30px>
-   56.4% Sensitivity is the average True Positive results observed across 10 separate radiology sites in a study reported in <u>The Spine</u> journal April 2017.  In this study 10 radiology sites were tested with the highest performance demonstrating a sensitivity of 72%.
+   56.4% </h><h4>Sensitivity is the average True Positive results observed across 10 separate radiology sites in a study reported in <u>The Spine</u> journal April 2017.  In this study 10 radiology sites were tested with the highest performance demonstrating a sensitivity of 72%.
 <br><br>
 
 Machine learning models are well suited for performing these types of classifications, labeling results at 'Abnormal' or 'Normal'.  This project produced sensitivity rates of 97%. Improving sensitivity can provide a system for radiologists to quickly flag results as a validation tool saving time, cost, and improving patient outcomes. 
-</h3>
+</h4>
 <br><br><br>
 
  
