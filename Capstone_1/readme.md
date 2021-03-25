@@ -35,7 +35,7 @@ Why
 Project
 ========================================================
 
-<small><b>Machine learning models are well suited for performing these types of classifications.  This project produced a model with a tope sensitivity rate of 97%. This model can provide a system used by radiologists to quickly flag results to perform a consistent validation process, saving time, cost, and improving patient outcomes. .</b>  
+<small><b>Machine learning models are well suited for performing these types of classifications.  This project produced a model with a top sensitivity rate of 97%. This model can provide a system used by radiologists to quickly flag results to perform a consistent validation process, saving time, cost, and improving patient outcomes. .</b>  
 </small> 
 
 
