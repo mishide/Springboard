@@ -26,21 +26,18 @@ Code
 Why
 ========================================================
 
-<b>56.4%</b>Sensitivity is the average True Positive results observed across 10 separate radiology sites in a study reported in <u>The Spine</u> journal April 2017.  In this study 10 radiology sites were tested with the highest performance demonstrating a sensitivity of 72%.
+<b>56.4%</b> Sensitivity is the average True Positive results observed across 10 separate radiology sites during a study reported in <u>The Spine</u> journal April 2017.  Ten sites were tested with the highest performance reaching a sensitivity of 72%, meaning 28 out of 100 that were reported as Abnormal were actually normal.
 <br><br>
 
-Machine learning models are well suited for performing these types of classifications, labeling results at 'Abnormal' or 'Normal'.  This project produced sensitivity rates of 97%. Improving sensitivity can provide a system for radiologists to quickly flag results as a validation tool saving time, cost, and improving patient outcomes. 
-</h4>
-<br><br><br>
 
- 
 
 
 Project
 ========================================================
 
-<small><b>This project creates a predictive machine to label lumbar x-ray results as "Abnormal" or "Normal' in cases of Spondylolisthesis to reduce interpretive errors and increase consistency resulting in reduced costs and improved outcomes.</b>  
+<small><b>Machine learning models are well suited for performing these types of classifications.  This project produced a model with a tope sensitivity rate of 97%. This model can provide a system used by radiologists to quickly flag results to perform a consistent validation process, saving time, cost, and improving patient outcomes. .</b>  
 </small> 
+
 
 
 Data
