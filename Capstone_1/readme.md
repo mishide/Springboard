@@ -20,16 +20,9 @@ Why
 ========================================================
 
 <small>
-<i><font = 30>"Where a patient obtains his or her MRI examination and which radiologist interprets the examination may have a direct impact on radiological diagnosis, subsequent choice of treatment, and clinical outcome." from <u>The Spine</u> journal April 2017</i></font>
+<i><font = 30>A study found in <u>The Spine</u> journal April 2017</i></font>found X-Ray variability within results within 10 different radiology sites to have a sensitivity (True Positive) of 56.4% with the best performing site having a sensitivity of 72%.  Machine learning models in this project produced sensitivity rates of 97%.  
 <br><br><br>
-Spondylolisthesis is a slipped vertebra.  The first step in proper diagnosis requires an x-ray determination of "Abnormal" or "Normal".
- <br><br>
- A study published in "The Spine", April 2017(ref1) researched accuracy rates of MRI Lumbar Spine results.  It found significant variability and a high rate of interpretive errors. The conclusions stated,
-<br><br>
- <i> "There was an average of 12.5±3.2 interpretive errors (both false-positives and false-negatives)...The high average interpretive miss rate of 43.6%±11.7 across the study examinations means that important pathologies are routinely underreported."</i>
- <br><br>
- Machine learning is well suited for the types of simultaneous angle comparisons performed in determining Spondylolisthesis results.  This project has built a model that reduces interpretive errors resulting in reduced cost for many; hospitals, physicians, insurance, and patients, while improving many patient outcomes.
-
+Improving sensitivity can provide a system for radiologists to quickly flag results as a validation tool saving time, cost, and improving patient outcomes.
  
 
 
