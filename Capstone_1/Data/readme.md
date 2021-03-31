@@ -9,4 +9,4 @@
 <b>data.csv:</b>  stored result of EDA for use in Machine Learning Models
 
 
-<i>weka3c.csv:  not currently used, kept for future development of multiple classifications</i>
+<b><i>weka3c.csv:</b>  not currently used, kept for future development of multiple classifications</i>
