@@ -1,5 +1,5 @@
 
-Description of Notebooks in this folder:
+DESCRIPTION
 
 Cleaning_EDA_GOUT:  2 MIMIC III data files are cleaned for use in NLP Analysis and Modeling
 
