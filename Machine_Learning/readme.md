@@ -1,9 +1,10 @@
 
 <h2>Research Customer Behavior</h2>
 
-👀 This project explores customer behavior with K-Means Clustering and provides a visualization using PCA
+👀 <b> This project explores customer behavior with K-Means Clustering and provides a visualization using PCA </b>
 
-<b> Capstone </b>
+<b> Analysis:  Mini_Project_Clustering_Final.ipynb
+  Data:  WineKMC.xlsx<br> </b>
 Supervised Classification of a binomial target.<br>
 6 well known classification models are tested with resulting recommendation based on accuracy and what is known about the data and algorithms<br>
 Analysis of feature correlations with PCA dimensionality reduction, p-value for H0 test, Tukey's Method for outlier identification, imbalanced data addressed with upsampling<br>
