@@ -1,4 +1,4 @@
-<h2># Springboard Projects & Capstones</h2>
+<h2>Springboard Projects & Capstones</h2>
 
 - 👀 Overview of folders
 
