@@ -1,1 +1,7 @@
 
+This project researches customer behavior with K-Means Clustering and provides a visualization using PCA.
+
+Notebook: Mini_Project_Clustering_Final.ipynb
+Data:  WineKMC.xlsx
+
+Tools:  Python: sckikit-learn, pandas, matplolib, searborn
