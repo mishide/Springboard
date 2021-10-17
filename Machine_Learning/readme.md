@@ -3,7 +3,7 @@
 
 👀 <b> This project explores customer behavior with K-Means Clustering and provides a visualization using PCA </b>
 
-<b> Analysis:  Mini_Project_Clustering_Final.ipynb
+<b> Analysis:  Mini_Project_Clustering_Final.ipynb</n>
   Data:  WineKMC.xlsx<br> </b>
 Supervised Classification of a binomial target.<br>
 6 well known classification models are tested with resulting recommendation based on accuracy and what is known about the data and algorithms<br>
