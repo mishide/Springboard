@@ -4,7 +4,7 @@
 👀 <b> This project explores customer behavior with K-Means Clustering and provides a visualization using PCA </b>
 
 <b> Analysis:  Mini_Project_Clustering_Final.ipynb
-  </n>
+  </br>
   Data:  WineKMC.xlsx<br> </b>
   
   
