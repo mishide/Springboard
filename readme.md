@@ -1,6 +1,6 @@
 <h2>Springboard Projects & Capstones</h2>
 
-- 👀 Overview of folders
+👀 Overview of folders
 
 <b> Capstone </b>
 Supervised Classification of a binomial target.<br>
