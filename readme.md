@@ -1,8 +1,6 @@
-<h2># Springboard Projects</h2>
+<h2># Springboard Projects & Capstones</h2>
 
-Projects and Capstones for Springboard's Data Science Career Track - over 500 hours of training and guidance from actual Data Scientists.
-
-Includes use of Python to make API calls, wrangle data contained in JSON data, statistical analysis and visualizations, basic SQL, and Machine Learning
+- 👀 Overview of folders
 
 <b> Capstone </b>
 Supervised Classification of a binomial target.<br>
